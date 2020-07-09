@@ -26,12 +26,10 @@ ___
 1.**root directory** : the directory that your codes have been there  
 2.**port : look at this address `localhost:8080`** the number after ` : ` is port  
 ___
-### if you found bug please contact us
-sarbazg59@gmail.com  
 
-#### see also
-* our website [sgmdev.ir](http://sgmdev.ir)  
-* our instagram [sarbaz180](https://instagram.com/sarbaz180)
+
+### Author
+Mohammad Mohammadi
+[Instagram](https://instagram.com/sarbazg180)
   
-_this script has written with Mohammad Mohammadi_
 
